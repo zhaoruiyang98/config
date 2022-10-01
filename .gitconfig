@@ -1,5 +1,8 @@
 [user]
 	email = zhaoruiyang19@mails.ucas.edu.cn
-	name = zhaoruiyang98
+    name = zhaoruiyang98
+[core]
+    editor = vim
 [commit]
-	gpgsign = true
+    gpgsign = true
+    template = ~/.gitmessage.txt
